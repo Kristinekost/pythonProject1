@@ -4,7 +4,7 @@ BMI = round(weight / height ** 2)
 if BMI < 18.5:
     print("underweight")
 elif BMI < 25:
-    print("normal weight")
+    print("Normal weight")
 elif BMI < 30:
     print("overweight")
 elif BMI < 35:
